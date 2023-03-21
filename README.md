@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katie Overton ===================================================================================================================================== A level Student --------------- I am an A-level student studying computer science, maths, further maths and geography. I would like to go into either an apprenticeship focusing in cyber forensics or software development. * 🌍  I'm based in England * 🚀  I'm currently working on [An ecommerce site](http://github.com/ItzSimplyJoe/Shopwebsite) * 🧠  I'm learning HTML & CSS * 🤝  I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katie Overton  
+I am an A-level student studying computer science, maths, further maths and geography. I would like to go into either an apprenticeship focusing in cyber forensics or software development. * 🌍  I'm based in England * 🚀  I'm currently working on [An ecommerce site](http://github.com/ItzSimplyJoe/Shopwebsite) * 🧠  I'm learning HTML & CSS * 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
